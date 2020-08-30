@@ -1,5 +1,7 @@
 # Xuanyi Zhu Resume and Portfolio
-A valuable, forward-thinking, and versatile computer scientist from UIUC. Proficient at software development, algorithms, full stack web applications. <br /> <br />
-Seeking for full-time SDE positions <br /> <br />
+A current Amazon SDE. <br /> <br />
+A valuable, forward-thinking, and versatile computer scientist. <br /> <br />
+An alumnus of the University of Illinois at Urbana-Champaign. Proficient in software development, algorithms, ML, and full-stack web applications. <br /> <br />
+(217) 419-6173 zhuxuanyi127@gmail.com <br /> <br />
 Linkedin: https://www.linkedin.com/in/xuanyi-zhu/ <br /> <br />
-Portfolio: https://drive.google.com/open?id=107YC8gGadpEpHp4WZdceawVf0gc2Pp_Q
+
