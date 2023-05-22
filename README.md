@@ -1,5 +1,5 @@
 # Xuanyi Zhu Resume and Portfolio
-A current Amazon full-time SDE. <br /> <br />
+A current Oracle Cloud full-time SDE. <br /> <br />
 A forward-thinking and versatile computer scientist. <br /> <br />
 Earned both master’s and bachelor’s degrees with honors in Computer Science from the University of Illinois at Urbana-Champaign. <br /> <br />
 Proficient in end-to-end software development, algorithms, ML, and full-stack applications. <br /> <br />
